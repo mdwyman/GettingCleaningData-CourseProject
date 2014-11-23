@@ -26,8 +26,11 @@ The testing and training data are imported and combined and then the user number
 
 Data for 4 calculations are selected:
 1. Average Body Acceleration Magnitude (feature name: "tBodyAccMag-mean()")
+
 2. Standard deviation of Body Acceleration Magnitude (feature name: "tBodyAccMag-std()")
+
 3. Average Gyroscopic Acceleration Magnitude (feature name: "tBodyGyroMag-mean()")
+
 4. Standard deviation of Gyroscopic Acceleration Magnitude (feature name: "tBodyGyroMag-std()")
 
 Because there are multiple instances of these calculations for each User/Activity combination, each quantity is then average for each User/Activity.
