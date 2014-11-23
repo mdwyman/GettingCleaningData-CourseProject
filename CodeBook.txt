@@ -1,0 +1,13 @@
+Code Book for user_data.txt as produced by run_analysis.R
+
+User: Number of human tester (1-30)
+
+Activity: action of human tester (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
+Average_Body_Acceleration_Magnitude: average of mean for all Body Acceleration Magnitude calculations 
+
+Std_Dev_Body_Acceleration_Magnitude: average of standard deviation for all Body Acceleration Magnitude calculations 
+
+Average_Body_Gyroscopic_Magnitude: average of mean for all Body Gyroscopic Magnitude calculations 
+
+Std_Dev_Body_Gyroscopic_Magnitude: average of standard deviation for all Body Gyroscopic Magnitude calculations 
